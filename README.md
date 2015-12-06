@@ -23,7 +23,7 @@
 
 **Edi Santoso**
 
-[email]([mailto:edicyber@gmail.com)
+[email](mailto:edicyber@gmail.com)
 
 [@cyberid41](https://github.com/cyberid41)
 
