@@ -17,3 +17,17 @@
 
 ## Video Demo Aplikasi
 [Youtube](https://youtu.be/ZwfzZbC_jZU)
+
+
+## Maintenance By
+
+**Edi Santoso**
+
+[email]([mailto:edicyber@gmail.com)
+
+[@cyberid41](https://github.com/cyberid41)
+
+[facebook](https://facebook.com/cyberid41)
+
+[linkedin](https://id.linkedin.com/in/cyberid41)
+ 
